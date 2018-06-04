@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/BookList';
+import BookList from './components/BookList';
 
 export default {
   name: 'app',
